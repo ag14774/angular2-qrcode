@@ -1,4 +1,4 @@
-import { ElementRef, OnChanges, SimpleChanges } from '@angular/core';
+import { ElementRef, OnChanges, NgModule, SimpleChanges } from '@angular/core';
 export declare class QRCodeComponent implements OnChanges {
     private elementRef;
     ngOnChanges(changes: SimpleChanges): void;
