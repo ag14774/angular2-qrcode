@@ -19,9 +19,6 @@
     "2",
     "ng2"
   ],
-  "files": [
-    "angular2-qrcode.ts"
-  ],
   "dependencies": {
     "qrious": "^2.2.0"
   },
